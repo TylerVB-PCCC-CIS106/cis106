@@ -1,0 +1,31 @@
+## Lab 3
+
+### Question 2
+
+![image](/home/tavanburen/cis106/labs/lab3/Lab3Screenshot.png)
+
+### Question 3
+
+| Program purpose     | Package Name | Version |
+| ------------------- | ------------ | ------- |
+| Play a tetris game  |     ltris    |  jammy 1.0.19-3build1 amd64       |
+| Play a video file   |     kodi     |  jammy 2:19.4+dfsg1-2 amd64       |
+| Browse the internet |     surf     |  jammy 2.1+git20210719-2 amd6       |
+| Read your email     |     aerc     |  jammy 0.8.2-1 amd64       |
+| Play music          |     yatm     |  jammy 0.9-3 amd64       |
+
+### Question 4
+
+sudo apt install ltris+ kodi+ surf+ aerc+ yatm+
+sudo apt install ltris- kodi- surf- aerc- yatm-
+sudo apt install ltris+ kodi+ surf- aerc- yatm-
+
+| command | what it does |
+|---------|--------------|
+| echo    |    Returns a string      |
+| fortune |    Generates a random epigram      |
+| cowsay  |    Generates an ASCII cow which says something based on user input          |
+| lolcat  |    Colors text rainbow          |
+| figlet  |    Displays block text          |
+| toilet  |    Displays block text with some advanced features          |
+| rig     |    Generates random personal data          |
