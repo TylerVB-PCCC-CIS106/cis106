@@ -2,7 +2,7 @@
 
 ### Question 2
 
-![image](/home/tavanburen/cis106/labs/lab3/Lab3Screenshot.png)
+![image](Lab3Screenshot.png)
 
 ### Question 3
 
