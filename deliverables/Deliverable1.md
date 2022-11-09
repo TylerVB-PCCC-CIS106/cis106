@@ -42,18 +42,17 @@ Jekyll websites have a file directory set to the following structure.
 |config.yml|Contains the sitewide
 
 ---
-###Documenting the Process of building a site.
+### Documenting the Process of building a site.
 
-|![sadf](/deliverables/screens/2022-11-09_10-18.png)|
+|![](screens/2022-11-09_10-18.png)|
 |:--:|
-|![](/deliverables/screens/2022-11-09_10-19.png)|
+|![](screens/2022-11-09_10-19.png)|
 |Installing the prereqs|
 
-|![](/deliverables/screens/2022-11-09_10-23_1.png)|
+|![](screens/2022-11-09_10-23_1.png)|
 |:--:|
 |![](screens/2022-11-09_10-23.png)
 |Installing Jekyll and using a command to create a website|
-|![](/deliverables/screens/2022-11-09_10-24.png)|
-|:--:|
-|![](/deliverables/screens/2022-11-09_16-19.png)
+|![](screens/2022-11-09_10-24.png)|
+|![](screens/2022-11-09_16-19.png)
 |A basic website, before and after testing ,making a new post|
