@@ -1,4 +1,4 @@
-## Deliverable 1
+##Deliverable 1
 ---
 ### What is a static site generator?
 ----
@@ -56,3 +56,42 @@ Jekyll websites have a file directory set to the following structure.
 |![](screens/2022-11-09_10-24.png)|
 |![](screens/2022-11-09_16-19.png)
 |A basic website, before and after testing ,making a new post|
+
+---
+## Deliverable 2-3
+---
+
+### Determining the client's needs
+
+I approached the client with with two Jekyll themes. Hacker and Skinny Bones. 
+
+https://github.com/pages-themes/hacker
+https://github.com/mmistakes/jekyll-theme-skinny-bones
+
+
+Neither one of them satisfied the client's request for a template that was portable and scalable to mobile.
+
+After researching themes that were made with mobile in mind I came across neumorphism and the client immediately fell in love.
+
+https://github.com/longpdo/neumorphism
+
+ Neumorphism was made with mobile in mind and seemed to be somewhat easily convertible from its intended purpose as a personal resume to a site for the club.
+
+### Creating a site using the template
+
+I began by creating a fork and cloning the fork to my local machine.
+
+![](screens2/Fork.png)
+
+In order to fulfill the needs of the client I had to start modifying the code of the template to reflect the needs of a club versus a personal resume.
+
+|![](screens2/SkillsFront.png)|
+|![](screens2/EboardFront.png)|
+|:--:|
+|A template for skills repurposed to display the Eboard.|
+
+### Closing Thoughts and reflection
+
+Throughout the course of this project I learned how to create a site using a template in Jekyll. I also scratched the bare basics of learning HTML to modify that template to better suit my purposes.
+
+https://tylervb-pccc-cis106.github.io/CIS-Club-neumorphism/
